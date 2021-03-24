@@ -102,8 +102,3 @@ Please see our [development documentation](./DEVELOPMENT.md) for details.
 
 Please see our [release documentation](./CHANGELOG.md) for details.
 
-## Contact
-
-If you have any suggestion or query. Contact us at
-
-opensource@opstree.com
